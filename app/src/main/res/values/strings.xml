@@ -1,0 +1,3 @@
+<resources>
+    <string name="a11y_desc">Detects which app is open so Focus Lock can keep you inside your allowed apps during a focus session.</string>
+</resources>
